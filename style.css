@@ -15,7 +15,7 @@
     align-items: center;
 }
 .container-fluid{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.728), rgba(0, 0, 0, 0.5)),url(bg.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.728), rgba(0, 0, 0, 0.5)),url(biryani.jpg);
     background-position: center;
     background-size: cover;
     height: 100vh;
